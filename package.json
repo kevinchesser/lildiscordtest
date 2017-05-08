@@ -1,0 +1,22 @@
+{
+  "name": "lildiscordtest",
+  "version": "1.0.0",
+  "description": "discord node sample",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinchesser/lildiscordtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinchesser/lildiscordtest/issues"
+  },
+  "homepage": "https://github.com/kevinchesser/lildiscordtest#readme",
+  "dependencies": {
+    "discordie": "^0.11.0"
+  }
+}
